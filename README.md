@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @ylatmck
-- 👀 I’m interested in coding alone
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @ylatmck Liang Yue, based in Chengdu office.
+- 👀 I’m interested in front-end, web applications, and anything new.
+- 🌱 I’m currently working on a firm internal project
+- 📫 Find me on Slack
 
 <!---
 ylatmck/ylatmck is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
